@@ -6,7 +6,16 @@
     <description>Recent content on MadelineLai | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 29 Jul 2020 10:07:47 +0600</lastBuildDate><atom:link href="https://Madelinelai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 10:07:47 +0600</lastBuildDate><atom:link href="https://Madelinelai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>指甲研究室LineBot對話機器人</title>
+      <link>https://Madelinelai.github.io/blog/nail/</link>
+      <pubDate>Wed, 02 Jun 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://Madelinelai.github.io/blog/nail/</guid>
+      <description>聊天機器人(Chatbot)，透過AI(人工智慧)的方式，電腦程式模擬與使用者互動的對話，在獲得用戶資訊的互動過程中發揮有效率的作用，因為近年來即時通訊軟體的使用頻率更高，讓企業對聊天機器人(chatbot)需求高速成長。 本篇文章說明指甲研究室_Linebot開發的過程，由已發表的文獻內容作為主題發想，挑戰在有限的一星期內進行具有影像判識模型的對話機器人，讓開發不再是冗長費心且耗費鉅資。有興趣的人歡迎透過下方QRcode進入，加入好友後即可體驗～指甲帶給您的隱藏訊息。 1. 主題發想參考fingernails文獻(Lee, S.H., Yang, C.S., “Fingernail analysis management system using microscopy sensor and blockchain technology” International Journal of Distributed Sensor Networks, Vol.</description>
+    </item>
+    
     <item>
       <title>CGU Master Thesis</title>
       <link>https://Madelinelai.github.io/blog/cows/</link>
@@ -27,10 +36,10 @@
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://Madelinelai.github.io/blog/post-13/</link>
+      <link>https://Madelinelai.github.io/%E4%BF%9D%E7%95%99post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://Madelinelai.github.io/blog/post-13/</guid>
+      <guid>https://Madelinelai.github.io/%E4%BF%9D%E7%95%99post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     

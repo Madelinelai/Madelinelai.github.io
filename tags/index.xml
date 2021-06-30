@@ -6,22 +6,49 @@
     <description>Recent content in Tags on MadelineLai | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 29 Jul 2020 10:07:47 +0600</lastBuildDate><atom:link href="https://Madelinelai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 10:07:47 +0600</lastBuildDate><atom:link href="https://Madelinelai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analysis</title>
+      <link>https://Madelinelai.github.io/tags/analysis/</link>
+      <pubDate>Wed, 02 Jun 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://Madelinelai.github.io/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case</title>
+      <link>https://Madelinelai.github.io/tags/case/</link>
+      <pubDate>Wed, 02 Jun 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://Madelinelai.github.io/tags/case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line_ChatBot</title>
+      <link>https://Madelinelai.github.io/tags/line_chatbot/</link>
+      <pubDate>Wed, 02 Jun 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://Madelinelai.github.io/tags/line_chatbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://Madelinelai.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 02 Jun 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://Madelinelai.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Python</title>
       <link>https://Madelinelai.github.io/tags/python/</link>
       <pubDate>Wed, 29 Jul 2020 10:07:47 +0600</pubDate>
       
       <guid>https://Madelinelai.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support Vector Regression(SVR)</title>
-      <link>https://Madelinelai.github.io/tags/support-vector-regressionsvr/</link>
-      <pubDate>Wed, 29 Jul 2020 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/support-vector-regressionsvr/</guid>
       <description></description>
     </item>
     
@@ -35,92 +62,11 @@
     </item>
     
     <item>
-      <title>泌乳牛</title>
-      <link>https://Madelinelai.github.io/tags/%E6%B3%8C%E4%B9%B3%E7%89%9B/</link>
-      <pubDate>Wed, 29 Jul 2020 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/%E6%B3%8C%E4%B9%B3%E7%89%9B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>熱緊迫</title>
-      <link>https://Madelinelai.github.io/tags/%E7%86%B1%E7%B7%8A%E8%BF%AB/</link>
-      <pubDate>Wed, 29 Jul 2020 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/%E7%86%B1%E7%B7%8A%E8%BF%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis</title>
-      <link>https://Madelinelai.github.io/tags/analysis/</link>
-      <pubDate>Tue, 19 Nov 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Case</title>
-      <link>https://Madelinelai.github.io/tags/case/</link>
-      <pubDate>Tue, 19 Nov 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/case/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet of Things (IoT)</title>
-      <link>https://Madelinelai.github.io/tags/internet-of-things-iot/</link>
-      <pubDate>Tue, 19 Nov 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/internet-of-things-iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Medical applications</title>
       <link>https://Madelinelai.github.io/tags/medical-applications/</link>
       <pubDate>Tue, 19 Nov 2019 10:07:47 +0600</pubDate>
       
       <guid>https://Madelinelai.github.io/tags/medical-applications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://Madelinelai.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://Madelinelai.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://Madelinelai.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://Madelinelai.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Madelinelai.github.io/tags/photos/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stock on MadelineLai | Blog</title>
+    <link>https://Madelinelai.github.io/categories/stock/</link>
+    <description>Recent content in Stock on MadelineLai | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 30 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://Madelinelai.github.io/categories/stock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人臉預測（第15任總統大選）</title>
+      <link>https://Madelinelai.github.io/blog/facerecognition/</link>
+      <pubDate>Wed, 30 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://Madelinelai.github.io/blog/facerecognition/</guid>
+      <description>更新中（記得要再回來看喔！） </description>
+    </item>
+    
+    <item>
+      <title>台股漲跌預測系統</title>
+      <link>https://Madelinelai.github.io/blog/stock/</link>
+      <pubDate>Thu, 30 Nov 2017 10:07:47 +0600</pubDate>
+      
+      <guid>https://Madelinelai.github.io/blog/stock/</guid>
+      <description>更新中（記得要再回來看喔！） </description>
+    </item>
+    
+  </channel>
+</rss>
